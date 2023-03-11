@@ -6,7 +6,7 @@ body{
     background-color: hsl(212, 45%, 89%);
 }
 
-.contenedor {
+.container {
     display: grid;
     justify-content: center;
     align-items: center;
@@ -67,7 +67,7 @@ font-weight: 700;
   }
 
   @media (max-width: 375px) {
-    .contenedor {
+    .container {
       max-width: 375px;
       margin: 0 auto; 
       margin-top: 40px;
@@ -78,7 +78,7 @@ font-weight: 700;
     }
   }
   @media (max-width: 414px) {
-    .contenedor {
+    .container {
       max-width: 414px;
       margin: 0 auto; 
       margin-top: 100px;
@@ -89,7 +89,7 @@ font-weight: 700;
     }
   }
   @media (max-width: 360px) {
-    .contenedor {
+    .container {
       max-width: 360px;
       margin: 0 auto; 
       margin-top: 60px;
@@ -100,7 +100,7 @@ font-weight: 700;
     }
   }
   @media (max-width: 412px) {
-    .contenedor {
+    .container {
       max-width: 412px;
       margin: 0 auto; 
       margin-top: 130px;
@@ -113,7 +113,7 @@ font-weight: 700;
 
   /*Desktop*/
   @media (min-width: 1440px) {
-    .contenedor {
+    .container {
       max-width: 1440px;
       margin: 0 auto; 
       margin-top: 120px;
