@@ -116,10 +116,11 @@ font-weight: 700;
     .contenedor {
       max-width: 1440px;
       margin: 0 auto; 
-      margin-top: 180px;
+      margin-top: 120px;
     }
     .attribution{
       max-width: 1440px;
       margin: 0 auto; 
+      margin-top: 80px;
   }
   }
